@@ -24,7 +24,6 @@
 PRODUCT_COPY_FILES += \
     vendor/asus/tf101/proprietary/bin/sensors-config:system/bin/sensors-config \
     vendor/asus/tf101/proprietary/bin/glgps:system/bin/glgps \
-    vendor/asus/tf101/proprietary/etc/asound.conf:system/etc/asound.conf \
     vendor/asus/tf101/proprietary/etc/firmware/nvmm_aacdec.axf:system/etc/firmware/nvmm_aacdec.axf \
     vendor/asus/tf101/proprietary/etc/firmware/nvmm_adtsdec.axf:system/etc/firmware/nvmm_adtsdec.axf \
     vendor/asus/tf101/proprietary/etc/firmware/nvmm_h264dec.axf:system/etc/firmware/nvmm_h264dec.axf \
